@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+      {
+        "source": {
+          "id": "australian-financial-review",
+          "name": "Australian Financial Review"
+        },
+        "author": "Tony Boyd",
+        "title": "Australia gets last piece of carbon puzzle",
+        "description": "Eight years after Liberal MP Greg Hunt pushed through the “safeguard mechanism” under prime minister Tony Abbott, the Albanese government is proposing to use it to slash the emissions of our largest polluters.",
+        "url": "http://www.afr.com/chanticleer/australia-gets-last-piece-of-carbon-puzzle-20230110-p5cbmw",
+        "urlToImage": "https://static.ffx.io/images/$zoom_0.3147%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_156/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/c64ba2d78f142065c2b070673d05d0d53a7e50fc",
+        "publishedAt": "2023-01-10T08:42:01Z",
+        "content": "The implementation of the new safeguard mechanism will force 215 of the countrys biggest industrial emitters to cut carbon emissions by 5 per cent each year by 2030.\r\nThe reform, which allows compani… [+6137 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "TIMESOFINDIA.COM",
+        "title": "'Inappropriate': PM Modi objects to 'protocol break' during meeting; Delhi CM expresses regret",
+        "description": "India News: Delhi chief minister Arvind Kejriwal on Friday faced flak for sharing a live telecast of an \"in-house\" meeting with Prime Minister Narendra Modi where",
+        "url": "http://timesofindia.indiatimes.com/india/delhi-cmo-expresses-regret-over-televised-address-during-meeting-with-pm-modi/articleshow/82213159.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-82213159,width-1070,height-580,imgsize-134672,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2021-04-23T03:54:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+        "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+        "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+        "publishedAt": "2020-04-27T07:20:43Z",
+        "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+      },
+      {
+        "source": {
+          "id": "the-jerusalem-post",
+          "name": "The Jerusalem Post"
+        },
+        "author": null,
+        "title": "Israel under rockets from Gaza - Live Updates",
+        "description": "The operation against Palestinian Islamic Jihad (PIJ) Leader Bahaa Abu Al-Ata was approved by the IDF chief-of-Staff, Shin Bet, Prime Minister Benjamin Netanyahu and the security cabinet.",
+        "url": "https://www.jpost.com/Breaking-News/Rocket-sirens-sound-near-Gaza-Strip-after-assassination-607581",
+        "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448852",
+        "publishedAt": "2019-11-13T11:37:00Z",
+        "content": "Several Israelis have been injured, including an eight-year-old girl who collapsed while running for shelter in Holon. She was evacuated to Wolfson hospital in serious condition.The following is a li… [+4911 chars]"
+      },
+      {
+        "source": {
+          "id": "the-jerusalem-post",
+          "name": "The Jerusalem Post"
+        },
+        "author": "Omri Nahmias",
+        "title": "President Donald Trump: Israel keeps having elections, nobody is elected",
+        "description": "Trump joked that his rating in Israel is 98%, and \"if anything happens here, I will take a trip over to Israel to run for prime minister there.”",
+        "url": "https://www.jpost.com/Arab-Israeli-Conflict/President-Donald-Trump-Israel-keeps-having-elections-nobody-is-elected-607687",
+        "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/443370",
+        "publishedAt": "2019-11-13T02:06:00Z",
+        "content": "WASHINGTON - US President Donald Trump on Tuesday, mocked the political stalemate in Israel, in which Israelis \"keep having elections [but] nobody is elected.” \r\nA video circulating in social media, … [+1773 chars]"
+      }
+    ]
+  }
